@@ -9,5 +9,7 @@ After submitting a guess, the player receives feedback in the form of colored le
 * <span style="color:yellow">Yellow</span> color indicates that the letter is __in__ the target word, but the order of the letter was __not correct__.    
 * <span style="color:Green">Green</span> color indicates that the letter is __in__ the target word, and the order of the letter was __correct__.
 
+<div style="display:flex">
 <img src="./readme_images/2.JPG" alt="screenshot1" width="250" height="450"/>
 <img src="./readme_images/3.JPG" alt="screenshot2" width="250" height="450"/>
+</div>
